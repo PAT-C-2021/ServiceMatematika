@@ -1,0 +1,6 @@
+D:\semester 5 PAT\patnew2\patnew2\bin\Debug\patnew2.dll.config
+D:\semester 5 PAT\patnew2\patnew2\bin\Debug\patnew2.dll
+D:\semester 5 PAT\patnew2\patnew2\bin\Debug\patnew2.pdb
+D:\semester 5 PAT\patnew2\patnew2\obj\Debug\patnew2.csprojAssemblyReference.cache
+D:\semester 5 PAT\patnew2\patnew2\obj\Debug\patnew2.dll
+D:\semester 5 PAT\patnew2\patnew2\obj\Debug\patnew2.pdb
